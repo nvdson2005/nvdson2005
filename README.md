@@ -4,6 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvdson2005&label=Profile%20views&color=0e75b6&style=flat" alt="nvdson2005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nvdson2005" alt="nvdson2005" /></a> </p> -->
+<!--
 <div style="display: flex; justify-content: center; align-items: center;">
    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvdson2005&theme=dark&layout=compact" width="250">
@@ -15,7 +16,7 @@
        <img src="https://streak-stats.demolab.com?user=nvdson2005&theme=dark" alt="GitHub Streak" width="340">
    </a>
 </div>
-
+-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
    
 </a>
@@ -24,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:ducsonds2005@gmail.com">
-  <img height="36" align="left" alt="Mail" src="gmail.png" style="padding-right:8px" />
+  <img height="36" align="left" alt="Mail" src="gmail.png" style="max-width: 100%; padding-right:8px;" />
 </a>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/son.nguyenvoduc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/son.nguyenvoduc/" height="30" width="40" /></a>
