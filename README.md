@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:ducsonds2005@gmail.com">
-  <img height="36" align="left" alt="Mail" src="gmail.png" style="max-width: 100%; padding-right:8px;" />
+  <img height="36" align="left" alt="Mail" src="gmail.png" style="max-width: 100%; padding-right:8px !important;" />
 </a>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/son.nguyenvoduc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/son.nguyenvoduc/" height="30" width="40" /></a>
